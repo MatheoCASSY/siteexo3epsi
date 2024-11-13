@@ -42,3 +42,21 @@ nav a:hover {
 section {
   margin-top: 20px;
 }
+
+h1 {
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+
+p {
+  color: white;
+  background-color: gray;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
