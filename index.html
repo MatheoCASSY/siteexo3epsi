@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="refsheet" href="index.css">
-  <title>Mon Blog Simple</title>
+  <link rel="stylesheet" href="index.css">
+  <title>Ma page web</title>
 
 </head>
 <body>
@@ -20,29 +20,13 @@
 
   <section id="home">
     <div class="article-preview">
-      <h2><a href="git_exo2.html" onclick="showSection('article')">Voici le site de mon camarade</a></h2>
-      <p>Résumé de l'article 1. <a href="git_exo2.html" onclick="showSection('article')">Aller voir</a></p>
+      <h2><a href="git_exo2.html">Voici le site de mon camarade</a></h2>
+      <p>Résumé de l'article 1. <a href="git_exo2.html">Aller voir</a></p>
     </div>
     <div class="article-preview">
-      <h2><a href="#" onclick="showSection('article')">Titre de l'Article 2</a></h2>
-      <p>Résumé de l'article 2. <a href="#" onclick="showSection('article')">Lire la suite...</a></p>
+      <h2><a href="#">Titre de l'Article 2</a></h2>
+      <p>Résumé de l'article 2. <a href="#">Lire la suite...</a></p>
     </div>
-  </section>
-
-  <section id="article" class="hidden">
-    <h2>Titre de l'Article</h2>
-    <p>Contenu complet de l'article. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis dignissim.</p>
-    <button onclick="showSection('home')">Retour à l'accueil</button>
-  </section>
-
-  <section id="contact" class="hidden">
-    <h2>Contactez-nous</h2>
-    <form class="contact-form">
-      <input type="text" placeholder="Nom" required>
-      <input type="email" placeholder="Email" required>
-      <textarea placeholder="Votre message" rows="4" required></textarea>
-      <button type="submit">Envoyer</button>
-    </form>
   </section>
 </div>
 
