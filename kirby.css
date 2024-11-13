@@ -10,10 +10,12 @@ body {
 
 p {
     color: white;
-    -webkit-text-stroke: 2px purple;
     background-color: gray;
+    text-align: center;
+}
 
-    P {
-        text-align: center
-    }
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
 }
