@@ -35,3 +35,7 @@ Découvrez notre site sur GitHub Pages : [siteexo3epsi](https://matheocassy.gith
 Un grand merci à **GitHub** pour nous permettre d'héberger ce projet gratuitement, et à **vous**, de prendre le temps de visiter notre site !
 
 Et n'oubliez pas, les amis, c'est avant tout pour s'amuser ! 🎮
+
+# Voici notre index :
+![image](https://github.com/user-attachments/assets/09d2f289-c89f-44b1-9399-ae95706d1c68)
+
