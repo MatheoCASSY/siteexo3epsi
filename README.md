@@ -1,25 +1,37 @@
-# Kirby et Meta Knight Fan Site 🎮
-Un projet fun et décalé sur Kirby et Meta Knight
-Ce site a été conçu pour s'amuser et partager notre passion pour l'univers de Nintendo, avec une touche humoristique et décontractée.
+# Mathéo & Mathias Fan Site 🎮
 
+Un projet fun et décalé pour nous découvrir et partager notre passion des jeux vidéo !
+
+Ce site a été conçu pour s'amuser et partager notre amour pour l'informatique, la cybersécurité, la réalité virtuelle et bien sûr, les jeux vidéo !
 
 ## 📝 Description
-Ce mini-site est dédié à Kirby et Meta Knight, deux personnages emblématiques de l'univers Nintendo. Ici, nous explorons leurs histoires, leurs caractéristiques, et quelques anecdotes croustillantes. C’est aussi un moyen pour nous de rigoler entre amis et de partager notre passion des jeux vidéo !
+
+Ce mini-site est dédié à Mathéo et Mathias, deux amis passionnés de jeux vidéo et de nouvelles technologies. Ici, vous découvrirez nos histoires, nos passions, et quelques anecdotes sympas ! C’est aussi un moyen de rire ensemble et de partager notre amour pour tout ce qui touche au numérique.
+
+- Mathéo, un passionné de cybersécurité, de VR et de jeux vidéo, est toujours prêt à explorer de nouveaux mondes, virtuels ou réels.  
+- Mathias, un fan de tech et un gamer invétéré, partage la même passion pour l’univers numérique et les défis.
 
 ## 🚀 Fonctionnalités
-Description des personnages - Une courte bio de Kirby et Meta Knight pour les (re)découvrir.
-Galerie d'images - Des visuels pour plonger dans l’univers de Kirby.
-Liens LinkedIn - Parce qu'il faut bien un peu de professionnalisme... ou pas 😜.
+
+- **À propos de nous** : Découvrez qui nous sommes, ce que nous aimons et nos projets personnels.  
+- **Retouvez nous** : Retrouvez nos linkedins !
 
 ## 🌐 Technologies Utilisées
-HTML et CSS pour la structure et le style du site
-GitHub Pages pour l'hébergement rapide et gratuit
+
+- **HTML et CSS** : Pour la structure et le design du site.  
+- **GitHub Pages** : Pour l'hébergement rapide et gratuit de notre projet.
 
 ## 👥 À propos de nous
-Le site a été réalisé par deux amis passionnés de jeux vidéo. Retrouvez-nous sur LinkedIn pour un clin d’œil professionnel sur le site
 
+Ce site a été créé par deux amis passionnés de jeux vidéo et de technologie. Nous avons partagé nos passions et nos projets à travers ce site, mais aussi un peu de rigolade et de complicité. Retrouvez-nous sur LinkedIn si vous êtes curieux de voir nos profils professionnels (ou juste pour échanger quelques blagues) !
+
+- Mathéo : Passionné de cybersécurité, de réalité virtuelle et de jeux vidéo !  
+- Mathias : Un expert dans la tech et un gamer qui adore relever des défis !
 
 Découvrez notre site sur GitHub Pages : [siteexo3epsi](https://matheocassy.github.io/siteexo3epsi/)
 
 ## 🙏 Remerciements
-Merci à Nintendo pour avoir créé Kirby et Meta Knight, et à GitHub pour nous permettre de partager notre projet avec le monde entier !
+
+Un grand merci à **GitHub** pour nous permettre d'héberger ce projet gratuitement, et à **vous**, de prendre le temps de visiter notre site !
+
+Et n'oubliez pas, les amis, c'est avant tout pour s'amuser ! 🎮
